@@ -1,4 +1,6 @@
-textarea {
-    height: 200px;
-    width: 400px;
+#tasks {
+    height: 450px;
+}
+.btn {
+    margin: 3px;
 }
