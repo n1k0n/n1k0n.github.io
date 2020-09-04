@@ -2,10 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="e863c91e-91bd-48b5-9234-f2a817b9f953" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/static/js/main.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/css/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/static/css/style.css" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -45,7 +42,7 @@
       <option name="presentableId" value="Default" />
       <updated>1599224551823</updated>
       <workItem from="1599224552844" duration="61000" />
-      <workItem from="1599224634480" duration="16078000" />
+      <workItem from="1599224634480" duration="16214000" />
     </task>
     <task id="LOCAL-00001" summary="Add BS5">
       <created>1599227425671</created>
@@ -54,7 +51,14 @@
       <option name="project" value="LOCAL" />
       <updated>1599227425671</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Complete(without 2 point) 3lab">
+      <created>1599245490630</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1599245490630</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -62,21 +66,22 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Add BS5" />
-    <option name="LAST_COMMIT_MESSAGE" value="Add BS5" />
+    <MESSAGE value="Complete(without 2 point) 3lab" />
+    <option name="LAST_COMMIT_MESSAGE" value="Complete(without 2 point) 3lab" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="1093" y="138" key="CommitChangelistDialog2" timestamp="1599227424527">
+    <state x="1093" y="138" key="CommitChangelistDialog2" timestamp="1599245489251">
       <screen x="0" y="30" width="1920" height="1050" />
     </state>
-    <state x="1093" y="138" key="CommitChangelistDialog2/0.30.1920.1050@0.30.1920.1050" timestamp="1599227424527" />
+    <state x="1093" y="138" key="CommitChangelistDialog2/0.30.1920.1050@0.30.1920.1050" timestamp="1599245489251" />
     <state x="461" y="199" key="SettingsEditor" timestamp="1599226835995">
       <screen x="0" y="30" width="1920" height="1050" />
     </state>
     <state x="461" y="199" key="SettingsEditor/0.30.1920.1050@0.30.1920.1050" timestamp="1599226835995" />
-    <state x="552" y="287" key="Vcs.Push.Dialog.v2" timestamp="1599227432809">
+    <state x="552" y="287" key="Vcs.Push.Dialog.v2" timestamp="1599245496545">
       <screen x="0" y="30" width="1920" height="1050" />
     </state>
-    <state x="552" y="287" key="Vcs.Push.Dialog.v2/0.30.1920.1050@0.30.1920.1050" timestamp="1599227432809" />
+    <state x="552" y="287" key="Vcs.Push.Dialog.v2/0.30.1920.1050@0.30.1920.1050" timestamp="1599245496545" />
     <state x="616" y="258" key="run.anything.popup" timestamp="1599225997455">
       <screen x="0" y="30" width="1920" height="1050" />
     </state>
