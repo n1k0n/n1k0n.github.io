@@ -2,8 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="e863c91e-91bd-48b5-9234-f2a817b9f953" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/index11.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/index111.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/index2.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index1.html" beforeDir="false" afterPath="$PROJECT_DIR$/index1.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -15,6 +18,7 @@
       <list>
         <option value="CSS File" />
         <option value="JavaScript File" />
+        <option value="HTML File" />
       </list>
     </option>
   </component>
@@ -27,6 +31,7 @@
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
@@ -45,7 +50,8 @@
       <workItem from="1599224552844" duration="61000" />
       <workItem from="1599224634480" duration="16214000" />
       <workItem from="1599392722629" duration="9154000" />
-      <workItem from="1599402079667" duration="15470000" />
+      <workItem from="1599402079667" duration="15531000" />
+      <workItem from="1599489704126" duration="8067000" />
     </task>
     <task id="LOCAL-00001" summary="Add BS5">
       <created>1599227425671</created>
@@ -68,7 +74,14 @@
       <option name="project" value="LOCAL" />
       <updated>1599419194108</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="Fix 3lab page">
+      <created>1599420990951</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1599420990951</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -78,17 +91,18 @@
     <MESSAGE value="Add BS5" />
     <MESSAGE value="Complete(without 2 point) 3lab" />
     <MESSAGE value="Add main page 4lab" />
-    <option name="LAST_COMMIT_MESSAGE" value="Add main page 4lab" />
+    <MESSAGE value="Fix 3lab page" />
+    <option name="LAST_COMMIT_MESSAGE" value="Fix 3lab page" />
   </component>
   <component name="WindowStateProjectService">
     <state x="586" y="233" key="#Inspections" timestamp="1599396528423">
       <screen x="0" y="30" width="1920" height="1050" />
     </state>
     <state x="586" y="233" key="#Inspections/0.30.1920.1050@0.30.1920.1050" timestamp="1599396528423" />
-    <state x="1093" y="138" key="CommitChangelistDialog2" timestamp="1599419192760">
+    <state x="1093" y="138" key="CommitChangelistDialog2" timestamp="1599420989808">
       <screen x="0" y="30" width="1920" height="1050" />
     </state>
-    <state x="1093" y="138" key="CommitChangelistDialog2/0.30.1920.1050@0.30.1920.1050" timestamp="1599419192760" />
+    <state x="1093" y="138" key="CommitChangelistDialog2/0.30.1920.1050@0.30.1920.1050" timestamp="1599420989808" />
     <state x="740" y="309" key="FileChooserDialogImpl" timestamp="1599392718280">
       <screen x="0" y="30" width="1920" height="1050" />
     </state>
@@ -97,14 +111,14 @@
       <screen x="0" y="30" width="1920" height="1050" />
     </state>
     <state x="461" y="199" key="SettingsEditor/0.30.1920.1050@0.30.1920.1050" timestamp="1599402036272" />
-    <state x="552" y="287" key="Vcs.Push.Dialog.v2" timestamp="1599419209965">
+    <state x="552" y="287" key="Vcs.Push.Dialog.v2" timestamp="1599420995903">
       <screen x="0" y="30" width="1920" height="1050" />
     </state>
-    <state x="552" y="287" key="Vcs.Push.Dialog.v2/0.30.1920.1050@0.30.1920.1050" timestamp="1599419209965" />
-    <state x="616" y="258" key="run.anything.popup" timestamp="1599225997455">
+    <state x="552" y="287" key="Vcs.Push.Dialog.v2/0.30.1920.1050@0.30.1920.1050" timestamp="1599420995903" />
+    <state x="616" y="258" key="run.anything.popup" timestamp="1599500063636">
       <screen x="0" y="30" width="1920" height="1050" />
     </state>
-    <state x="616" y="258" key="run.anything.popup/0.30.1920.1050@0.30.1920.1050" timestamp="1599225997455" />
+    <state x="616" y="258" key="run.anything.popup/0.30.1920.1050@0.30.1920.1050" timestamp="1599500063636" />
     <state x="623" y="257" key="search.everywhere.popup" timestamp="1599226897706">
       <screen x="0" y="30" width="1920" height="1050" />
     </state>
