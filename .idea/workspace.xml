@@ -1,12 +1,20 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="e863c91e-91bd-48b5-9234-f2a817b9f953" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/index11.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/index111.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/index2.html" afterDir="false" />
+    <list default="true" id="e863c91e-91bd-48b5-9234-f2a817b9f953" name="Default Changelist" comment="Complete 4lab">
+      <change afterPath="$PROJECT_DIR$/static/css/style2.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/css/xiaomi.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/img/рамка.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/js/main2.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/js/xiaomi.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/xiaomiPage.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/index1.html" beforeDir="false" afterPath="$PROJECT_DIR$/index1.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index111.html" beforeDir="false" afterPath="$PROJECT_DIR$/index111.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index2.html" beforeDir="false" afterPath="$PROJECT_DIR$/index2.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/css/style1.css" beforeDir="false" afterPath="$PROJECT_DIR$/static/css/style1.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/img/advantagesBg.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/static/img/advantagesBg.jpg" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -16,9 +24,9 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
+        <option value="HTML File" />
         <option value="CSS File" />
         <option value="JavaScript File" />
-        <option value="HTML File" />
       </list>
     </option>
   </component>
@@ -36,6 +44,7 @@
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="list.type.of.created.stylesheet" value="CSS" />
+    <property name="nodejs_package_manager_path" value="npm" />
     <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
@@ -51,7 +60,16 @@
       <workItem from="1599224634480" duration="16214000" />
       <workItem from="1599392722629" duration="9154000" />
       <workItem from="1599402079667" duration="15531000" />
-      <workItem from="1599489704126" duration="8067000" />
+      <workItem from="1599489704126" duration="10791000" />
+      <workItem from="1599550434223" duration="1034000" />
+      <workItem from="1599736390514" duration="554000" />
+      <workItem from="1600196807306" duration="1949000" />
+      <workItem from="1601391964110" duration="4999000" />
+      <workItem from="1602432822258" duration="4020000" />
+      <workItem from="1602516265103" duration="2610000" />
+      <workItem from="1602575806653" duration="7235000" />
+      <workItem from="1605613988578" duration="622000" />
+      <workItem from="1605614675677" duration="4035000" />
     </task>
     <task id="LOCAL-00001" summary="Add BS5">
       <created>1599227425671</created>
@@ -81,7 +99,14 @@
       <option name="project" value="LOCAL" />
       <updated>1599420990951</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="Complete 4lab">
+      <created>1599501503273</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1599501503273</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -92,32 +117,45 @@
     <MESSAGE value="Complete(without 2 point) 3lab" />
     <MESSAGE value="Add main page 4lab" />
     <MESSAGE value="Fix 3lab page" />
-    <option name="LAST_COMMIT_MESSAGE" value="Fix 3lab page" />
+    <MESSAGE value="Complete 4lab" />
+    <option name="LAST_COMMIT_MESSAGE" value="Complete 4lab" />
   </component>
   <component name="WindowStateProjectService">
+    <state x="839" y="453" key="#Custom_Plugin_Repositories" timestamp="1605614581804">
+      <screen x="0" y="30" width="1920" height="1050" />
+    </state>
+    <state x="839" y="453" key="#Custom_Plugin_Repositories/0.30.1920.1050/1920.30.1280.994@0.30.1920.1050" timestamp="1605614581804" />
     <state x="586" y="233" key="#Inspections" timestamp="1599396528423">
       <screen x="0" y="30" width="1920" height="1050" />
     </state>
     <state x="586" y="233" key="#Inspections/0.30.1920.1050@0.30.1920.1050" timestamp="1599396528423" />
-    <state x="1093" y="138" key="CommitChangelistDialog2" timestamp="1599420989808">
+    <state x="796" y="122" key="CommitChangelistDialog2" timestamp="1605621178049">
       <screen x="0" y="30" width="1920" height="1050" />
     </state>
-    <state x="1093" y="138" key="CommitChangelistDialog2/0.30.1920.1050@0.30.1920.1050" timestamp="1599420989808" />
-    <state x="740" y="309" key="FileChooserDialogImpl" timestamp="1599392718280">
+    <state x="796" y="122" key="CommitChangelistDialog2/0.30.1920.1050/1920.30.1280.994@0.30.1920.1050" timestamp="1605621178049" />
+    <state x="1093" y="138" key="CommitChangelistDialog2/0.30.1920.1050@0.30.1920.1050" timestamp="1599501502346" />
+    <state x="368" y="116" key="DiffContextDialog" timestamp="1605621134304">
       <screen x="0" y="30" width="1920" height="1050" />
     </state>
+    <state x="368" y="116" key="DiffContextDialog/0.30.1920.1050/1920.30.1280.994@0.30.1920.1050" timestamp="1605621134304" />
+    <state x="740" y="309" key="FileChooserDialogImpl" timestamp="1605614604663">
+      <screen x="0" y="30" width="1920" height="1050" />
+    </state>
+    <state x="740" y="309" key="FileChooserDialogImpl/0.30.1920.1050/1920.30.1280.994@0.30.1920.1050" timestamp="1605614604663" />
     <state x="740" y="309" key="FileChooserDialogImpl/0.30.1920.1050@0.30.1920.1050" timestamp="1599392718280" />
-    <state x="461" y="199" key="SettingsEditor" timestamp="1599402036272">
+    <state x="461" y="199" key="SettingsEditor" timestamp="1605614610944">
       <screen x="0" y="30" width="1920" height="1050" />
     </state>
+    <state x="461" y="199" key="SettingsEditor/0.30.1920.1050/1920.30.1280.994@0.30.1920.1050" timestamp="1605614610944" />
     <state x="461" y="199" key="SettingsEditor/0.30.1920.1050@0.30.1920.1050" timestamp="1599402036272" />
-    <state x="552" y="287" key="Vcs.Push.Dialog.v2" timestamp="1599420995903">
+    <state x="552" y="287" key="Vcs.Push.Dialog.v2" timestamp="1599501508102">
       <screen x="0" y="30" width="1920" height="1050" />
     </state>
-    <state x="552" y="287" key="Vcs.Push.Dialog.v2/0.30.1920.1050@0.30.1920.1050" timestamp="1599420995903" />
-    <state x="616" y="258" key="run.anything.popup" timestamp="1599500063636">
+    <state x="552" y="287" key="Vcs.Push.Dialog.v2/0.30.1920.1050@0.30.1920.1050" timestamp="1599501508102" />
+    <state x="616" y="258" key="run.anything.popup" timestamp="1602435486303">
       <screen x="0" y="30" width="1920" height="1050" />
     </state>
+    <state x="616" y="258" key="run.anything.popup/0.30.1920.1050/1920.30.1280.994@0.30.1920.1050" timestamp="1602435486303" />
     <state x="616" y="258" key="run.anything.popup/0.30.1920.1050@0.30.1920.1050" timestamp="1599500063636" />
     <state x="623" y="257" key="search.everywhere.popup" timestamp="1599226897706">
       <screen x="0" y="30" width="1920" height="1050" />

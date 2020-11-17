@@ -1,10 +1,21 @@
 <!DOCTYPE html>
-<html lang="en">
+<html lang="ru">
 <head>
     <meta charset="UTF-8">
-    <title>Title</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="static/css/style.css">
+    <title>Lab5</title>
 </head>
 <body>
+<form>
+    <textarea id="form_message" placeholder="Сообщение"></textarea><br>
+    <input id="form_address_line1" type="text" placeholder="Адрес, строка 1"><br>
+    <input id="form_author" type="text" placeholder="Автор"><br>
+    <input id="form_date" type="text" placeholder="Дата"><br>
+    <input id="form_send" type="submit">
+</form>
 
+<script src="https://cdnjs.cloudflare.com/ajax/libs/jspdf/2.1.1/jspdf.umd.min.js"></script>
+<script src="static/js/main2.js"></script>
 </body>
 </html>

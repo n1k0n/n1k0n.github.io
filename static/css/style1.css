@@ -18,6 +18,11 @@ body {
 
 .footer{
     background-color: rgb(29,29,29);
+    color: gray;
+}
+
+.links > a {
+    color: gray;
 }
 
 .responsive {

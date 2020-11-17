@@ -1,0 +1,72 @@
+.header {
+    background-color: rgb(196,196,196);
+    padding-top: 5px;
+}
+
+.page {
+    display: grid;
+    align-items: center;
+    justify-content: center;
+    justify-items: center;
+    background-color: darkgrey;
+}
+
+.responsive {
+    width: 100%;
+    height: auto;
+}
+
+.gifMiija {
+    height: 236px;
+    width: 236px;
+}
+
+.gif {
+    width: 980px;
+    height: 490px;
+}
+
+.img1 {
+    width: 1176px;
+}
+
+.img2 {
+    width: 980px;
+}
+
+.img-container {
+    display: grid;
+    align-items: center;
+    justify-content: center;
+    justify-items: center;
+    list-style-type: none;
+    background-color: white;
+    border: white;
+    border-radius: 15px;
+    padding: 20px;
+}
+
+.title {
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 48px;
+    line-height: 56px;
+    display: flex;
+    align-items: center;
+    text-align: center;
+    padding: 10px;
+}
+
+.description {
+    width: 1000px;
+    height: 300px;
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: 300;
+    font-size: 18px;
+    line-height: 21px;
+    display: grid;
+    align-content: center;
+    padding: 30px;
+}
