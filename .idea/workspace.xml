@@ -2,16 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="e863c91e-91bd-48b5-9234-f2a817b9f953" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/5 lab.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/index3.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/css/style3.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/js/jquery-3.5.1.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/js/main3.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/js/pdfmake.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/js/vfs_fonts.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/index2.html" beforeDir="false" afterPath="$PROJECT_DIR$/index2.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/js/main2.js" beforeDir="false" afterPath="$PROJECT_DIR$/static/js/main2.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index2.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/js/main.js" beforeDir="false" afterPath="$PROJECT_DIR$/static/js/main.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -76,7 +70,7 @@
       <workItem from="1605614675677" duration="9372000" />
       <workItem from="1605636773814" duration="3000" />
       <workItem from="1609009940970" duration="296000" />
-      <workItem from="1609019471983" duration="3685000" />
+      <workItem from="1609019471983" duration="4644000" />
     </task>
     <task id="LOCAL-00001" summary="Add BS5">
       <created>1599227425671</created>
@@ -120,7 +114,14 @@
       <option name="project" value="LOCAL" />
       <updated>1605624945545</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="Add 5lab">
+      <created>1609023432600</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1609023432600</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -133,17 +134,22 @@
     <MESSAGE value="Fix 3lab page" />
     <MESSAGE value="Complete 4lab" />
     <MESSAGE value="kek" />
-    <option name="LAST_COMMIT_MESSAGE" value="kek" />
+    <MESSAGE value="Add 5lab" />
+    <option name="LAST_COMMIT_MESSAGE" value="Add 5lab" />
   </component>
   <component name="WindowStateProjectService">
     <state x="839" y="453" key="#Custom_Plugin_Repositories" timestamp="1605614581804">
       <screen x="0" y="30" width="1920" height="1050" />
     </state>
     <state x="839" y="453" key="#Custom_Plugin_Repositories/0.30.1920.1050/1920.30.1280.994@0.30.1920.1050" timestamp="1605614581804" />
-    <state x="796" y="122" key="CommitChangelistDialog2" timestamp="1605624935334">
+    <state x="690" y="301" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1609023583485">
       <screen x="0" y="30" width="1920" height="1050" />
     </state>
-    <state x="796" y="122" key="CommitChangelistDialog2/0.30.1920.1050/1920.30.1280.994@0.30.1920.1050" timestamp="1605624935334" />
+    <state x="690" y="301" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.30.1920.1050/1920.30.1280.994@0.30.1920.1050" timestamp="1609023583485" />
+    <state x="796" y="122" key="CommitChangelistDialog2" timestamp="1609023430652">
+      <screen x="0" y="30" width="1920" height="1050" />
+    </state>
+    <state x="796" y="122" key="CommitChangelistDialog2/0.30.1920.1050/1920.30.1280.994@0.30.1920.1050" timestamp="1609023430652" />
     <state x="368" y="116" key="DiffContextDialog" timestamp="1605621134304">
       <screen x="0" y="30" width="1920" height="1050" />
     </state>
@@ -156,10 +162,10 @@
       <screen x="0" y="30" width="1920" height="1050" />
     </state>
     <state x="461" y="199" key="SettingsEditor/0.30.1920.1050/1920.30.1280.994@0.30.1920.1050" timestamp="1605614610944" />
-    <state x="552" y="287" key="Vcs.Push.Dialog.v2" timestamp="1605625360127">
+    <state x="552" y="287" key="Vcs.Push.Dialog.v2" timestamp="1609023436297">
       <screen x="0" y="30" width="1920" height="1050" />
     </state>
-    <state x="552" y="287" key="Vcs.Push.Dialog.v2/0.30.1920.1050/1920.30.1280.994@0.30.1920.1050" timestamp="1605625360127" />
+    <state x="552" y="287" key="Vcs.Push.Dialog.v2/0.30.1920.1050/1920.30.1280.994@0.30.1920.1050" timestamp="1609023436297" />
     <state x="667" y="259" width="585" height="592" key="find.popup" timestamp="1609021416792">
       <screen x="0" y="30" width="1920" height="1050" />
     </state>
