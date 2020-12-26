@@ -1,0 +1,25 @@
+body {
+    margin: 0px;
+    background: url(https://webfon.top/wp-content/uploads/2017/10/ded-mor.jpg) left top repeat;
+    font-family: 'Lobster', cursive;
+}
+
+form {
+    display: flex;
+    flex-direction: column;
+    align-content: center;
+    place-content: center;
+    margin-left: 30%;
+    margin-right: 30%;
+}
+
+input, textarea {
+    margin: 2%;
+}
+
+.header {
+    text-align: center;
+    background-color: indianred;
+    color: whitesmoke;
+    font-size: 40px;
+}
